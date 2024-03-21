@@ -1,2 +1,3 @@
-# .github
-OpenHarmony Research Group
+# OpenHarmony Research Group
+
+The landscape of mobile operating systems is currently experiencing a major transformation towards a more distributed, interconnected, and intelligent model. This shift necessitates advanced security features within the operating system and its foundational architecture. OpenHarmony, an innovative open-source operating system already deployed in over 100 million devices, stands at the forefront of this trend. It offers a wealth of research possibilities by enabling more seamless integration and co-design between the operating system and its underlying hardware architecture.
